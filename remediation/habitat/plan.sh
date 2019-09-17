@@ -1,6 +1,6 @@
 scaffold_policy_name="base"
 pkg_name=remediation
-pkg_origin=cheftv
+pkg_origin=emachnic
 pkg_version="0.2.0"
 pkg_maintainer="The Habitat Maintainers <humans@habitat.sh>"
 pkg_description="The Chef $scaffold_policy_name Policy"
